@@ -117,7 +117,7 @@
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
 |
-|crew member| Hack4Brahma | 4th Oct 2025 | Northeast India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4brahma.live/) |
+|crew member| Hack4Brahma | 4th Oct 2025 | Northeast India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4brahma.live/) |<br>
 |
 |crew member| Hack4Maha | 30th Aug 2025 | Central India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4maha.live/) |
  
