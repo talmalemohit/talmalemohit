@@ -108,17 +108,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="33" alt="figma logo"  />
 </div>
 
-###
 
-
-
-###
-
- 
-[![codetichie18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codetechie18&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
-
-
-<details align="center">
   <summary> 
     <h3>👨🏻‍💻 Hackathon Expirences</h3>
   </summary>
