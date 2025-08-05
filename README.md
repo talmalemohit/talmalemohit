@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on My 3d Portfolio<br><br>🌱 I’m currently learning MERN<br><br>📫 How to reach me  : talmalemohit8332gmail.com<br><br>💬 Ask me about  react , gsap<br><br>⚡ Fun fact I am Funny</p>
+<p align="left">🔭 I’m currently working on My 3d Portfolio<br><br>🌱 I’m currently learning MERN<br><br>📫 How to reach me  : talmalemohit833@gmail.com<br><br>💬 Ask me about  react , gsap<br><br>⚡ Fun fact I am Funny</p>
 
 ###
 
