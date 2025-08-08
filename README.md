@@ -122,6 +122,11 @@
 |crew member| Hack4Maha | 30th Aug 2025 | Central India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4maha.live/) |
  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohittalmale&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
+
 
  
  
